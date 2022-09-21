@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Sonr](https://github.com/sonr-io)
 
-- 🌱 I’m currently learning **[Flutter](flutter.dev) with [Sonr's Flutter SDK](motor.build)**
+- 🌱 I’m currently learning **[Flutter](https://flutter.dev/) with [Sonr's Flutter SDK](https://motor.build/)**
 
 - 💬 Ask me about **AI and ML, Model Explainability, Fairness**
 
